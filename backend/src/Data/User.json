@@ -1,0 +1,9 @@
+[
+    {
+      "id": 1,
+      "name": "Marianne Gomes",
+      "email": "usuario@gmail.com",
+      "password": "senha123",
+      "status": "active"
+    }
+]
