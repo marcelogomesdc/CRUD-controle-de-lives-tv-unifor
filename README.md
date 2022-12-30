@@ -26,11 +26,7 @@ Na pasta <strong>"backend"</strong>, execute:
 Na pasta <strong>"frontend"</strong>, execute:
   > npm install <br />
   > npm start
-#� �T�r�a�b�a�l�h�o�-�F�i�n�a�l�-�D�e�s�e�n�v�o�l�v�i�m�e�n�t�o�-�P�l�a�t�a�f�o�r�m�a�s�-�W�e�b�
-�
-�#� �T�r�a�b�a�l�h�o�-�F�i�n�a�l�-�D�e�s�e�n�v�o�l�v�i�m�e�n�t�o�-�P�l�a�t�a�f�o�r�m�a�s�-�W�e�b�
-�
-�
+
 ![TELA LOGIN USUARIO TV UNIFOR](https://user-images.githubusercontent.com/103389971/210071687-736f6e9a-789f-4ebf-8ae4-935e50b76d7c.png)
 ![TELA CADASTRO LIVES TV UNIFOR](https://user-images.githubusercontent.com/103389971/210071702-a8096cf8-57e2-4ad4-9bd4-fdcb28299a80.png)
 
